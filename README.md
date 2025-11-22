@@ -22,6 +22,9 @@ JavaScript | TypeScript| React | Next.js | Node.js | MongoDB
 
 ## 🗣️ Languages
 
-![English](https://img.shields.io/badge/English-B1-brightgreen?style=flat-square)![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)![Italian](https://img.shields.io/badge/Italian-C2-blue?style=flat-square)
+![English](https://img.shields.io/badge/English-B1-brightgreen?style=flat-square)
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
+![Italian](https://img.shields.io/badge/Italian-C2-blue?style=flat-square)
+
 ## 📫 How to reach me:  
 [LinkedIn](https://www.linkedin.com/in/oksana-horbachevska-700b52189/) | [Telegram](https://t.me/gialloblue) | [Email](mailto:oksanapaolo@gmail.com)
