@@ -17,7 +17,7 @@ JavaScript | TypeScript | React | Next.js | Node.js | Express | MongoDB | REST A
 
 - [NoteHub](https://github.com/Oksana-Horbachevska/09-auth) – a modern note-taking app with authentication, categories, search, filtering and profile management. Tech stack: Next.js, TypeScript,  React, REST API, Zustand. [🔗 Live Demo](https://09-auth-murex.vercel.app/)
 
-- [GREEN.HARVEST](https://oksana-horbachevska.github.io/project-BestDreamEver/) – a responsive landing page for a company involved in eco-products developed in a team, with a focus on responsive design and semantic HTML. Built using HTML5, CSS3 (SASS), JavaScript and Vite. Role: Team Leader
+- [GREEN.HARVEST](https://github.com/Oksana-Horbachevska/project-BestDreamEver) – a responsive landing page for a company involved in eco-products developed in a team, with a focus on responsive design and semantic HTML. Built using HTML5, CSS3 (SASS), JavaScript and Vite. Role: Team Leader. [🔗 Live Demo](https://oksana-horbachevska.github.io/project-BestDreamEver/)
 
 
 
