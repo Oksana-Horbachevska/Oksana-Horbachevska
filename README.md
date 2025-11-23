@@ -12,7 +12,7 @@ JavaScript | TypeScript| React | Next.js | Node.js | MongoDB
 
 - [Podorozhnyky fontend](https://github.com/AlexNovickiy/nextjs-project-team-1-podorozhnyky), [Podorozhnyky backend](https://node-js-project-team-1.onrender.com/api-docs/)  – fullstack web application that allows travellers to browse, filter and create travel stories, save favourites, and manage personal profiles. Built as a collaborative team project following Agile/Scrum methodology. Tech stack: Next.js, TypeScript,  React, Node.js, Express, MongoDB, REST API, Zustand. Role: Fullstack Developer
 
-- [ArtistsHub](https://github.com/Oksana-Horbachevska/project-BestDreamEver) – a platform for displaying artist profiles, developed in a team, with a focus on integrating REST API for fetching artist data, responsive design and semantic HTML. Built using HTML5, CSS3 (SASS), JavaScript and Vite. Role: Developer
+- [NoteHub](https://09-auth-murex.vercel.app/) – a modern note-taking application built with Next.js, that allows a user to take and manage notes, search and filter them, manage personal profiles.
 
 - [GREEN.HARVEST](https://github.com/Oksana-Horbachevska/project-BestDreamEver) – a responsive landing page for a company involved in eco-products developed in a team, with a focus on responsive design and semantic HTML. Built using HTML5, CSS3 (SASS), JavaScript and Vite. Role: Team Leader
 
