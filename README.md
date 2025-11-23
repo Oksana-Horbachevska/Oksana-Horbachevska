@@ -2,19 +2,22 @@
 ## 👋 Hi, I'm Oksana Horbachevska
 #  Junior Fullstack Developer | React | Node.js  
 
- Fullstack developer with experience in JavaScript, React, Next.js, Node.js and MongoDB. Experienced in creating single-page applications (SPA) and multi-page applications (MPA), integrating REST API, and implementing responsive and adaptive user interface components. Experience working in an Agile/Scrum environment, adhering to best practices in coding, version control (Git), and performance optimisation techniques. Strong problem-solving skills and a proactive approach to developing scalable web solutions.
+ Fullstack developer with hands-on experience in JavaScript, React, Next.js, Node.js and MongoDB. Skilled in building single-page (SPA) and multi-page applications (MPA), integrating REST APIs, and creating responsive and accessible UI components.
+Experienced in Agile/Scrum workflows, writing clean and maintainable code, working with Git/GitHub, and optimising performance.
+Passionate about solving complex problems and developing scalable, user-focused web applications.
 
 
 ## 🧰 Tech Stack 
 
-JavaScript | TypeScript| React | Next.js | Node.js | MongoDB
+JavaScript | TypeScript | React | Next.js | Node.js | Express | MongoDB | REST API | Vite | SASS
+
 ## 💻Featured Projects 
 
-- [Podorozhnyky fontend](https://github.com/AlexNovickiy/nextjs-project-team-1-podorozhnyky), [Podorozhnyky backend](https://node-js-project-team-1.onrender.com/api-docs/)  – fullstack web application that allows travellers to browse, filter and create travel stories, save favourites, and manage personal profiles. Built as a collaborative team project following Agile/Scrum methodology. Tech stack: Next.js, TypeScript,  React, Node.js, Express, MongoDB, REST API, Zustand. Role: Fullstack Developer
+- [Podorozhnyky fontend](https://nextjs-project-team-1-podorozhnyky.vercel.app/), [Podorozhnyky backend](https://node-js-project-team-1.onrender.com/api-docs/)  – fullstack web application that allows travellers to browse, filter and create travel stories, save favourites, and manage personal profiles. Built as a collaborative team project following Agile/Scrum methodology. Tech stack: Next.js, TypeScript,  React, Node.js, Express, MongoDB, REST API, Zustand. Role: Fullstack Developer
 
-- [NoteHub](https://09-auth-murex.vercel.app/) – a modern note-taking application built with Next.js, that allows a user to take and manage notes, search and filter them, manage personal profiles.
+- [NoteHub](https://09-auth-murex.vercel.app/) – a modern note-taking app with authentication, categories, search, filtering and profile management. Tech stack: Next.js, TypeScript,  React, REST API, Zustand.
 
-- [GREEN.HARVEST](https://github.com/Oksana-Horbachevska/project-BestDreamEver) – a responsive landing page for a company involved in eco-products developed in a team, with a focus on responsive design and semantic HTML. Built using HTML5, CSS3 (SASS), JavaScript and Vite. Role: Team Leader
+- [GREEN.HARVEST](https://oksana-horbachevska.github.io/project-BestDreamEver/) – a responsive landing page for a company involved in eco-products developed in a team, with a focus on responsive design and semantic HTML. Built using HTML5, CSS3 (SASS), JavaScript and Vite. Role: Team Leader
 
 
 
