@@ -13,7 +13,7 @@ JavaScript | TypeScript | React | Next.js | Node.js | Express | MongoDB | REST A
 
 ## 💻Featured Projects 
 
-- [RentalCar](https://github.com/Oksana-Horbachevska/rental-car-project)  – web application that allows travellers to browse, filter and create travel stories, save favourites, and manage personal profiles. Built as a collaborative team project following Agile/Scrum methodology. Tech stack: Next.js, TypeScript, React, REST API, Zustand. [🔗 Live Demo](https://rental-car-project-iota.vercel.app/)
+- [RentalCar](https://github.com/Oksana-Horbachevska/rental-car-project)  – RentalCar is a modern car rental application built with Next.js. The platform provides users with a convenient and intuitive way to browse available vehicles and make rental requests. Tech stack: Next.js, TypeScript, React, REST API, Zustand. [🔗 Live Demo](https://rental-car-project-iota.vercel.app/)
   
 - [Podorozhnyky fontend](https://nextjs-project-team-1-podorozhnyky.vercel.app/), [Podorozhnyky backend](https://node-js-project-team-1.onrender.com/api-docs/)  – fullstack web application that allows travellers to browse, filter and create travel stories, save favourites, and manage personal profiles. Built as a collaborative team project following Agile/Scrum methodology. Tech stack: Next.js, TypeScript,  React, Node.js, Express, MongoDB, REST API, Zustand. Role: Fullstack Developer
 
