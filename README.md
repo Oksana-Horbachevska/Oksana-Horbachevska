@@ -12,9 +12,9 @@ Passionate about solving complex problems and developing scalable, user-focused 
 JavaScript | TypeScript | React | Next.js | Node.js | Express | MongoDB | REST API | Vite | SASS
 
 ## 💻Featured Projects 
-- [Read Journey](https://github.com/Oksana-Horbachevska/read-journey)  – Read Journey is a modern web application designed for book lovers to track their reading progress, manage a personal library, and discover new literature. Tech stack: React, React Router, TypeScript, Firebase-auth, Firebase-database, Zustand. [🔗 Live Demo](https://nanny-services-ten.vercel.app/)
+- [Read Journey](https://github.com/Oksana-Horbachevska/read-journey)  – Read Journey is a modern web application designed for book lovers to track their reading progress, manage a personal library, and discover new literature. Tech stack: Next.js, React, TypeScript, React Hook Form + Yup, REST API, Zustand, JWT-tokens. [🔗 Live Demo](https://nanny-services-ten.vercel.app/)
   
-- [NannyServices](https://github.com/Oksana-Horbachevska/NannyServices)  – NannyService is a web application built with React, designed to help users easily browse available nannies, view detailed caregiver profiles, and submit appointment requests. Tech stack: Next.js, React, TypeScript, React Hook Form + Yup, REST API, Zustand, JWT-tokens. [🔗 Live Demo](read-journey-blush.vercel.app)
+- [NannyServices](https://github.com/Oksana-Horbachevska/NannyServices)  – NannyService is a web application built with React, designed to help users easily browse available nannies, view detailed caregiver profiles, and submit appointment requests. Tech stack: React, React Router, TypeScript, Firebase-auth, Firebase-database, Zustand. [🔗 Live Demo](read-journey-blush.vercel.app)
 
 - [RentalCar](https://github.com/Oksana-Horbachevska/rental-car-project)  – RentalCar is a modern car rental application built with Next.js. The platform provides users with a convenient and intuitive way to browse available vehicles and make rental requests. Tech stack: Next.js, TypeScript, React, REST API, Zustand. [🔗 Live Demo](https://rental-car-project-iota.vercel.app/)
 
