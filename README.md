@@ -9,7 +9,7 @@ Passionate about solving complex problems and developing scalable, user-focused 
 
 ## 🧰 Tech Stack 
 
-JavaScript | TypeScript | React | Next.js | Node.js | Express | MongoDB | REST API | Vite | SASS
+React | Next.js |JavaScript | TypeScript | Zustand | Node.js | Express | MongoDB | REST API | Vite | SASS
 
 ## 💻Featured Projects 
 - [Read Journey](https://github.com/Oksana-Horbachevska/read-journey)  – Read Journey is a modern web application designed for book lovers to track their reading progress, manage a personal library, and discover new literature. Tech stack: Next.js, React, TypeScript, React Hook Form + Yup, REST API, Zustand, JWT-tokens. [🔗 Live Demo](https://read-journey-blush.vercel.app/)
